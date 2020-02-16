@@ -1,9 +1,14 @@
-  {
-    "id": 1,
-    "home": "Storhamar",
-    "away": "Stjerne",
-    "date": "2020-03-01T18:00:00.000Z",
-    "reservations": {
+{
+  "match": [
+    {
+      "id": 1,
+      "home": "Storhamar",
+      "away": "Stjerne",
+      "date": "2020-03-01T18:00:00.000Z"
+    }
+  ],
+  "reservations": [
+    {
       "r1": {
         "id": 1,
         "section": "A",
@@ -29,4 +34,5 @@
         "price": 200
       }
     }
-  }
+  ]
+}
