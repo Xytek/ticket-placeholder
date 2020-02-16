@@ -1,46 +1,34 @@
-{
-  "events": {
-    "e2020-21": {
-      "name": "Storhamar - Stjernen",
-      "date": "2020-03-01T18:00:00.000Z"
-    }
-  },
-  "eventSections": {
-    "e2020-21": {
-      "A": {
-        "isFull": false,
-        "totalSeats": 5,
-        "bookedSeats": 3
+[
+  {
+    "id": 1,
+    "home": "Storhamar",
+    "away": "Stjerne",
+    "date": "2020-03-01T18:00:00.000Z",
+    "reservations": {
+      "r1": {
+        "id": 1,
+        "section": "A",
+        "row": 22,
+        "seat": 3,
+        "type": "Adult",
+        "price": 300
       },
-      "B": {
-        "isFull": true,
-        "totalSeats": 1,
-        "bookedSeats": 1
-      }
-    }
-  },
-  "sectionSeats": {
-    "A": {
-      "A1": {
-        "isBooked": true
+      "r2": {
+        "id": 2,
+        "section": "A",
+        "row": 22,
+        "seat": 3,
+        "type": "Adult",
+        "price": 300
       },
-      "A2": {
-        "isBooked": true
-      },
-      "A3": {
-        "isBooked": true
-      },
-      "A4": {
-        "isBooked": false
-      },
-      "A5": {
-        "isBooked": false
-      },
-      "B": {
-        "B1": {
-          "isBooked": true
-        }
+      "r3": {
+        "id": 3,
+        "section": "A",
+        "row": 22,
+        "seat": 3,
+        "type": "Student",
+        "price": 200
       }
     }
   }
-}
+]
