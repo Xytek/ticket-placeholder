@@ -20,7 +20,7 @@
       "id": 2,
       "section": "A",
       "row": 22,
-      "seat": 3,
+      "seat": 4,
       "type": "Adult",
       "price": 300
     },
@@ -28,7 +28,7 @@
       "id": 3,
       "section": "A",
       "row": 22,
-      "seat": 3,
+      "seat": 5,
       "type": "Student",
       "price": 200
     }
