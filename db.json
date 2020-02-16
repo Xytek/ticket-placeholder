@@ -1,0 +1,46 @@
+{
+  "events": {
+    "e2020-21": {
+      "name": "Storhamar - Stjernen",
+      "date": "2020-03-01T18:00:00.000Z"
+    }
+  },
+  "eventSections": {
+    "e2020-21": {
+      "A": {
+        "isFull": false,
+        "totalSeats": 5,
+        "bookedSeats": 3
+      },
+      "B": {
+        "isFull": true,
+        "totalSeats": 1,
+        "bookedSeats": 1
+      }
+    }
+  },
+  "sectionSeats": {
+    "A": {
+      "A1": {
+        "isBooked": true
+      },
+      "A2": {
+        "isBooked": true
+      },
+      "A3": {
+        "isBooked": true
+      },
+      "A4": {
+        "isBooked": false
+      },
+      "A5": {
+        "isBooked": false
+      },
+      "B": {
+        "B1": {
+          "isBooked": true
+        }
+      }
+    }
+  }
+}
