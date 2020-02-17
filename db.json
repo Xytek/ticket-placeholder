@@ -31,6 +31,14 @@
       "seat": 5,
       "type": "Student",
       "price": 200
+    },
+    {
+      "id": 4,
+      "section": "A",
+      "row": 22,
+      "seat": 6,
+      "type": "",
+      "price": 0
     }
   ]
 }
