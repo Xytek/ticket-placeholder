@@ -1,44 +1,4 @@
 {
-  "match": [
-    {
-      "id": 1,
-      "home": "Storhamar",
-      "away": "Stjerne",
-      "date": "2020-03-01 18:00"
-    }
-  ],
-  "reservations": [
-    {
-      "id": 1,
-      "section": "A",
-      "row": 22,
-      "seat": 3,
-      "type": "Adult",
-      "price": 300
-    },
-    {
-      "id": 2,
-      "section": "A",
-      "row": 22,
-      "seat": 4,
-      "type": "Adult",
-      "price": 300
-    },
-    {
-      "id": 3,
-      "section": "A",
-      "row": 22,
-      "seat": 5,
-      "type": "Student",
-      "price": 200
-    },
-    {
-      "id": 4,
-      "section": "A",
-      "row": 22,
-      "seat": 6,
-      "type": "",
-      "price": 0
-    }
-  ]
+"display":"standalone",
+"orientation":"portrait"
 }
